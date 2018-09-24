@@ -7,4 +7,5 @@
     android:background="@color/colorPrimary"
     app:title="@string/toolbar_title">
 
+
 </android.support.v7.widget.Toolbar>
