@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="140dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tvCoordinates"
+        style="@style/tvCoordLocatStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1111111" />
+
+    <TextView
+        android:id="@+id/tvLocation"
+        style="@style/tvCoordLocatStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="asdsdsd" />
+
+    <ImageView
+        android:id="@+id/imgWeather"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+    <TextView
+        android:id="@+id/tvWeatherText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Solnechno"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/tvTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="36"
+        android:textSize="70sp" />
+
+</LinearLayout>

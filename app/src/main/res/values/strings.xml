@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NilbSoftApp</string>
+    <string name="toolbar_title">NilbSoftApp</string>
+    <string name="longtitude">Широта : </string>
+    <string name="lantitude">Долгота : </string>
+    <string name="image_url">http://openweathermap.org/img/w/</string>
+
+    <string name="API_KEY">4d63c1acf9a085448b23971128e5eddd</string>
+    <string name="table_date">Дата и время</string>
+    <string name="table_coordinate">Координаты</string>
+    <string name="table_location">Локация</string>
+    <string name="btn_prev_text">Предыдущее</string>
+    <string name="btn_next_text">Следующее</string>
+    <string name="delete_text">delete</string>
+    <string name="dialog_delete">Удалить запись?</string>
+    <string name="dialog_positive">Удалить</string>
+    <string name="dialog_negative">Отмена</string>
+    <string name="refresh_menu">обновить</string>
+    <string name="clear_all_history">Очистить список</string>
+    <string name="delete_all_dialog">Вы действительно хотите удалить все записи?</string>
+
+</resources>
